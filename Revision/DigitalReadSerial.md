@@ -1,7 +1,8 @@
-#Digital Read Serial
+# Digital Read Serial
 
 ![image](./imagelist/DigitalReadSerial.png)
 
+```
 int pushButton = 2;
 void setup()
 {   
@@ -15,3 +16,4 @@ void loop()
     Serial.println(buttonState);
     delay(1);
 }
+```
