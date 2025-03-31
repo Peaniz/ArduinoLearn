@@ -1,3 +1,5 @@
+# Analog Read Serial 
+
 > Serial.begin(9600); -> setup serial communication at 9600 bits of data per seconds
 
 ![image](./imagelist/analogreadserial.png)
