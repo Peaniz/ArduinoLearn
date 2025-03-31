@@ -1,5 +1,6 @@
 # LED Matrix
 
+```
 const int ledCount = 8;
 const int ledPin[ledCount] = {13, 12, 11, 10, 9, 8, 7, 6};
 
@@ -57,3 +58,4 @@ void allLedOff() {
         digitalWrite(ledPin[i], LOW);
     }
 }
+```
